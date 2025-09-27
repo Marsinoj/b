@@ -85,10 +85,11 @@ body {
 	border-radius: 5px;
 	overflow: scroll;
 	scrollbar-width: none;
+	color: antiquewhite;
 }
  
 .message .sincere{
-	text-align: right;
+	text-align: left;
 	font-family: "Cinzel, serif";
 	font-size: 14px;
 	line-height: 1.2em;
