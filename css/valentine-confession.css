@@ -60,7 +60,7 @@ body {
 
 .message {
 	padding: 25px;
-	background: url("./images/bgletter.jpg") no-repeat center center;
+	background: url("../images/bgletter.jpg") no-repeat center center;
   	background-size: cover;
 	font-family: "Quicksand", serif;
   	font-optical-sizing: auto;
